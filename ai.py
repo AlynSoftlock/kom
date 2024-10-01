@@ -8,7 +8,7 @@ response = client.chat.completions.create(
         messages=[
             {
                 "role": "user",
-                "content": "Limfao"
+                "content": "Limfaodd"
             }
         ]
     )
